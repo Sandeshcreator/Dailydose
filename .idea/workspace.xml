@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75b6eae6-ddcf-4ffe-9e5d-faa060078dea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/YtKunal/YtKunal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Exercise_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Exercise_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Exercise_Condition_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Exercise_Function_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Exercise_Loop_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Exercise_Switch_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Fun_Parametar_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/IsPrime_Fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YtKunal/src/Swapnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj" beforeDir="false" afterPath="$PROJECT_DIR$/Dailyprj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj/src/inherit/Cyinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj/src/inherit/Cypinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj/src/inherit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj/src/inherit/Router.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dailyprj/src/inherit/inherit.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QGG2PpibcI0BFmcJE3b6VxH2zz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Exam">
+    <configuration name="Exam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_01" />
+      <module name="YtKunal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_Condition_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_Condition_03" />
+      <module name="YtKunal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_Loop_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_Loop_03" />
+      <module name="YtKunal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_Switch_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_Switch_04" />
+      <module name="YtKunal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exam" />
+        <item itemvalue="Application.Exercise_Switch_04" />
+        <item itemvalue="Application.Exercise_Loop_03" />
+        <item itemvalue="Application.Exercise_Condition_03" />
+        <item itemvalue="Application.Exercise_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b6eae6-ddcf-4ffe-9e5d-faa060078dea" name="Changes" comment="" />
+      <created>1684972306303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684972306303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IdeaProjects$Exercise_02.ic" NAME="Exercise_02 Coverage Results" MODIFIED="1692635564926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
