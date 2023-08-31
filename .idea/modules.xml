@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayListWithDAO_/ArrayListWithDAO_.iml" filepath="$PROJECT_DIR$/ArrayListWithDAO_/ArrayListWithDAO_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YtDSA/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/YtDSA/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Corejava/Corejava.iml" filepath="$PROJECT_DIR$/Corejava/Corejava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dailyprj/Dailyprj.iml" filepath="$PROJECT_DIR$/Dailyprj/Dailyprj.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />

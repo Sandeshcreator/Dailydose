@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="75b6eae6-ddcf-4ffe-9e5d-faa060078dea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,38 +44,43 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HigherLower">
-    <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenDigits" />
-      <module name="YtDSA" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\YtDSA\BinarySearch\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LeetCodeFairCandySwap">
+    <configuration name="LeetCodeDoubleExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeDoubleExist" />
+      <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HIghtestWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HIghtestWealth" />
-      <module name="YtDSA" />
+    <configuration name="LeetCodeFairCandySwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeFairCandySwap" />
+      <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HigherLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HigherLower" />
-      <module name="YtDSA" />
+    <configuration name="LeetCodeTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeTarget" />
+      <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searchin2DArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searchin2DArr" />
-      <module name="YtDSA" />
+    <configuration name="OrderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderAgnosticBS" />
+      <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareRoot" />
-      <module name="YtDSA" />
+    <configuration name="TargetSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TargetSearch" />
+      <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HigherLower" />
-        <item itemvalue="Application.SquareRoot" />
-        <item itemvalue="Application.HIghtestWealth" />
-        <item itemvalue="Application.EvenDigits" />
-        <item itemvalue="Application.Searchin2DArr" />
+        <item itemvalue="Application.LeetCodeFairCandySwap" />
+        <item itemvalue="Application.LeetCodeDoubleExist" />
+        <item itemvalue="Application.LeetCodeTarget" />
+        <item itemvalue="Application.OrderAgnosticBS" />
+        <item itemvalue="Application.TargetSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +125,11 @@
           <url>file://$PROJECT_DIR$/YtKunal/src/CheckDuplicate.java</url>
           <line>5</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/YtDSA/BinarySearch/src/TargetSearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
