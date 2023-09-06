@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b6eae6-ddcf-4ffe-9e5d-faa060078dea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YtDSA/BinarySearch/src/TargetSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/YtDSA/BinarySearch/src/TargetSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinarySearch/TargetSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinarySearch/TargetSearch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\IdeaProjects\YtDSA\BinarySearch\src" />
     </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="target" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LeetCodeFairCandySwap">
+  <component name="RunManager" selected="Application.LeetCodeDoubleExist">
     <configuration name="LeetCodeDoubleExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeDoubleExist" />
       <module name="BinarySearch" />
@@ -57,22 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeFairCandySwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeFairCandySwap" />
+    <configuration name="LeetCodePIvotComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodePIvotComparison" />
       <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeTarget" />
+    <configuration name="LeetCodeRotedSOrtedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeRotedSOrtedArray" />
       <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrderAgnosticBS" />
+    <configuration name="RowColMtrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RowColMtrix" />
       <module name="BinarySearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCodeFairCandySwap" />
         <item itemvalue="Application.LeetCodeDoubleExist" />
-        <item itemvalue="Application.LeetCodeTarget" />
-        <item itemvalue="Application.OrderAgnosticBS" />
+        <item itemvalue="Application.RowColMtrix" />
+        <item itemvalue="Application.LeetCodePIvotComparison" />
         <item itemvalue="Application.TargetSearch" />
+        <item itemvalue="Application.LeetCodeRotedSOrtedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +117,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -125,11 +140,6 @@
           <url>file://$PROJECT_DIR$/YtKunal/src/CheckDuplicate.java</url>
           <line>5</line>
           <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/YtDSA/BinarySearch/src/TargetSearch.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

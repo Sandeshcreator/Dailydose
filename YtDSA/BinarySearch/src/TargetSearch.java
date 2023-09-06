@@ -1,7 +1,7 @@
 public class TargetSearch{
     public static void main(String[] args) {
-        int [] arr = {14,16,18,19,20,25,45,55};
-        int key = 25;
+        int [] arr = {4,5,6,7,0,1,2};
+        int key = 0;
 
         System.out.println(Bsearch(arr , key));
 
